@@ -1,0 +1,4 @@
+---
+redirect_to:
+  - https://blog.citrusui.me/2016/01/08/pangu8-for-mac/
+---
