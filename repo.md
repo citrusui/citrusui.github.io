@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - https://citrusui.me/old/repo/
+  - https://citrusui.me/repo/
 ---
